@@ -20,6 +20,7 @@ git remote show origin
 git add .
 git status
 git commit -m "first commit"
+git log
 
 # pull and push
 git pull --allow-unrelated-histories origin main
@@ -30,4 +31,7 @@ git push origin main
 
 + https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 + https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories-on-rebase
++ https://stackoverflow.com/questions/1270514/undoing-a-git-push
++ https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
++ 
 
